@@ -1,15 +1,3 @@
-// IniFile.cpp:  Implementation of the CIniFile class.
-// Written by:   Adam Clauss
-// Email: cabadam@houston.rr.com
-// You may use this class/code as you wish in your programs.  Feel free to distribute it, and
-// email suggested changes to me.
-//
-// Rewritten by: Shane Hill
-// Date:         21/08/2001
-// Email:        Shane.Hill@dsto.defence.gov.au
-// Reason:       Remove dependancy on MFC. Code should compile on any
-//               platform.
-//////////////////////////////////////////////////////////////////////
 
 //#pragma warning(disable:4996)
 // C++ Includes
